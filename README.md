@@ -74,13 +74,11 @@ This hands-on course is structured into seven core segments, each focusing on es
 ## 📁 Repository Structure
 
 ```
-├── Segment1_AI_ML_Landscape/    # Framework overviews and GPU demo scripts
-├── Segment2_Jupyter/            # Jupyter usage examples and tips
-├── Segment3_Scikit_Learn/       # Python basics and Scikit Learn notebooks
-├── Segment4_Statistics_Tools/   # Scripts and notes for R, MATLAB, Octave
-├── Segment5_Deep_Learning/      # TensorFlow/PyTorch examples and ANN experiments
-├── Segment6_Cloud_Development/  # Cloud model development and deployment
-└── Segment7_LLMs_and_MCP/       # Hugging Face, ChatGPT demos, and MCP workflows
+├── Lesson 1/                    # TensorFlow, Keras, and PyTorch with TensorBoard demos
+├── Lesson 2/                    # Jupyter Notebook intro and model training example
+├── Lesson 3/                    # Python intro and Scikit-Learn examples
+├── Lesson 5/                    # Deep learning with TensorFlow and PyTorch
+└── Lesson 7/                    # LLM tools and OpenAI API examples
 ```
 
 Each segment includes:
