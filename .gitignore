@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and databases
+logs/
+*.log
+*.sql
+*.sqlite
+*.db
+
+# ML/AI specific
+models/
+checkpoints/
+*.h5
+*.pkl
+*.pickle
+*.joblib
+*.pth
+*.ckpt
+data/
+datasets/
+
+# Environment variables
+.env
+.env.local
+
+# Python version
+.python-version
